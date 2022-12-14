@@ -1,4 +1,16 @@
+# VSCODE
+.vscode
+
+# AIRFLOW
+logs
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# ENVIRONMENT VARIABLES
 venv
 .env
-.vscode
+
+# DATA LOCAL
 temp
