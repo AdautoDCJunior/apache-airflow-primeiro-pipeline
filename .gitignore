@@ -1,6 +1,9 @@
 # VSCODE
 .vscode
 
+# PYTHON
+__pycache__
+
 # AIRFLOW
 logs
 airflow.cfg
